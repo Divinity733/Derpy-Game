@@ -1,0 +1,6 @@
+c:\users\blit1703\documents\visual studio 2010\Projects\Derpy Game\Derpy Game\Derpy Game\bin\x86\Debug\Derpy Game.exe
+c:\users\blit1703\documents\visual studio 2010\Projects\Derpy Game\Derpy Game\Derpy Game\bin\x86\Debug\Derpy Game.pdb
+c:\users\blit1703\documents\visual studio 2010\Projects\Derpy Game\Derpy Game\Derpy Game\obj\x86\Debug\Derpy Game.csprojResolveAssemblyReference.cache
+c:\users\blit1703\documents\visual studio 2010\Projects\Derpy Game\Derpy Game\Derpy Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\blit1703\documents\visual studio 2010\Projects\Derpy Game\Derpy Game\Derpy Game\obj\x86\Debug\Derpy Game.exe
+c:\users\blit1703\documents\visual studio 2010\Projects\Derpy Game\Derpy Game\Derpy Game\obj\x86\Debug\Derpy Game.pdb
